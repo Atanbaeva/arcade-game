@@ -1,5 +1,8 @@
 # arcade-game
 This is snake game. Here I used only java.
+
+
+
 <img width="303" alt="Снимок" src="https://user-images.githubusercontent.com/73099449/148843434-48ef9533-e992-4efb-9c36-cff1936e9d4c.PNG">
 
 
